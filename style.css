@@ -12,7 +12,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(https://th.bing.com/th/id/R.fb1eaea8b038ed1e0d95547bc8558742?rik=7whJgni4wccgmg&pid=ImgRaw&r=0) no-repeat
+    background: url(https://th.bing.com/th/id/R.fb1eaea8b038ed1e0d95547bc8558742?rik=7whJgni4wccgmg&pid=ImgRaw&r=0);
+    background-repeat:no-repeat;
+    background-size:cover;
 }
 
 .wrapper {
