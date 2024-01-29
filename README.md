@@ -1,1 +1,1 @@
-To view Website vist : https://logincsshtml.netlify.app/
+To view project vist : https://logincsshtml.netlify.app/
